@@ -7,3 +7,8 @@
 2. 将打包后的文件推送到我的 github page。
 
 这样就不用每次打包后，手动替换 github page 中的页面了。
+
+
+参考 ：
+[阮一峰GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+[带你入门前端工程](https://woai3c.gitee.io/introduction-to-front-end-engineering/06.html#%E5%B0%8F%E7%BB%93)
